@@ -1,4 +1,4 @@
-<h1>👋 Hi there! I’m Michelle Novenda Hartono</h1>
+<h1>👋 Hi there! I’m Michelle Novenda Hartono 莊晴雯</h1>
 <p>Currently an undergraduate student at <a href="https://nthu-en.site.nthu.edu.tw/">National Tsing Hua University</a>, majoring in Computer Science.</p>
 <h3>Reach me through:</h3>
 <a href="mailto:mnhartono@gmail.com" target="_top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail Logo" width="30" height="25"></a>
